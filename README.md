@@ -1,1 +1,2 @@
-# readings
+# Resources
+Collection of Resources
